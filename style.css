@@ -1178,3 +1178,14 @@ ul { list-style: none; }
    UTILITIES
 ============================================================ */
 [data-aos] { transition-property: opacity, transform !important; }
+.visitor-counter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.visitor-counter img {
+    vertical-align: middle;
+}
